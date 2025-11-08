@@ -1,0 +1,4 @@
+===== IFEval Accuracies (prompt-level follow_all) =====
+Qwen/Qwen3-4B: strict=0.8133, loose=0.8410
+/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form: strict=0.8022, loose=0.8281
+/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form: strict=0.8096, loose=0.8373
