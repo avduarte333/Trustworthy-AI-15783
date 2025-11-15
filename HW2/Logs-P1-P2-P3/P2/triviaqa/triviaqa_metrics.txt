@@ -1,4 +1,0 @@
-===== TriviaQA Metrics =====
-Qwen/Qwen3-4B: EM=0.4402, F1=0.1949, Recall=0.5596
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form: EM=0.4320, F1=0.1656, Recall=0.5585
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form: EM=0.4245, F1=0.1756, Recall=0.5479

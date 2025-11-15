@@ -1,4 +1,0 @@
-===== IFEval Accuracies (prompt-level follow_all) =====
-Qwen/Qwen3-0.6B: strict=0.5656, loose=0.6044
-Qwen/Qwen3-1.7B: strict=0.6913, loose=0.7153
-Qwen/Qwen3-4B: strict=0.8133, loose=0.8410

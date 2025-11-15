@@ -1,4 +1,0 @@
-===== TriviaQA Metrics =====
-Qwen/Qwen3-0.6B: EM=0.1630, F1=0.1198, Recall=0.3427
-Qwen/Qwen3-1.7B: EM=0.3053, F1=0.1776, Recall=0.4350
-Qwen/Qwen3-4B: EM=0.4393, F1=0.1945, Recall=0.5587

@@ -1,233 +1,0 @@
-Models:   0%|          | 0/3 [00:00<?, ?it/s]`torch_dtype` is deprecated! Use `dtype` instead!
-
-Evaluating IFEval for Qwen/Qwen3-4B...
-
-Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s][A
-Loading checkpoint shards:  33%|███▎      | 1/3 [00:00<00:01,  1.68it/s][A
-Loading checkpoint shards:  67%|██████▋   | 2/3 [00:01<00:00,  1.67it/s][ALoading checkpoint shards: 100%|██████████| 3/3 [00:01<00:00,  2.47it/s]
-
-Qwen/Qwen3-4B batches:   0%|          | 0/68 [00:00<?, ?it/s][AThe following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
-
-Qwen/Qwen3-4B batches:   1%|▏         | 1/68 [00:19<22:09, 19.85s/it][A
-Qwen/Qwen3-4B batches:   3%|▎         | 2/68 [00:38<21:20, 19.40s/it][A
-Qwen/Qwen3-4B batches:   4%|▍         | 3/68 [00:49<16:52, 15.58s/it][A
-Qwen/Qwen3-4B batches:   6%|▌         | 4/68 [01:16<21:19, 20.00s/it][A
-Qwen/Qwen3-4B batches:   7%|▋         | 5/68 [01:55<28:12, 26.86s/it][A
-Qwen/Qwen3-4B batches:   9%|▉         | 6/68 [02:28<29:45, 28.80s/it][A
-Qwen/Qwen3-4B batches:  10%|█         | 7/68 [03:07<32:48, 32.27s/it][A
-Qwen/Qwen3-4B batches:  12%|█▏        | 8/68 [03:46<34:13, 34.23s/it][A
-Qwen/Qwen3-4B batches:  13%|█▎        | 9/68 [04:11<31:00, 31.53s/it][A
-Qwen/Qwen3-4B batches:  15%|█▍        | 10/68 [04:50<32:41, 33.81s/it][A
-Qwen/Qwen3-4B batches:  16%|█▌        | 11/68 [05:05<26:33, 27.96s/it][A
-Qwen/Qwen3-4B batches:  18%|█▊        | 12/68 [05:44<29:13, 31.31s/it][A
-Qwen/Qwen3-4B batches:  19%|█▉        | 13/68 [06:19<29:51, 32.58s/it][A
-Qwen/Qwen3-4B batches:  21%|██        | 14/68 [06:40<26:01, 28.92s/it][A
-Qwen/Qwen3-4B batches:  22%|██▏       | 15/68 [07:02<23:44, 26.87s/it][A
-Qwen/Qwen3-4B batches:  24%|██▎       | 16/68 [07:41<26:31, 30.61s/it][A
-Qwen/Qwen3-4B batches:  25%|██▌       | 17/68 [08:07<24:47, 29.16s/it][A
-Qwen/Qwen3-4B batches:  26%|██▋       | 18/68 [08:32<23:10, 27.82s/it][A
-Qwen/Qwen3-4B batches:  28%|██▊       | 19/68 [09:11<25:34, 31.32s/it][A
-Qwen/Qwen3-4B batches:  29%|██▉       | 20/68 [09:50<26:55, 33.66s/it][A
-Qwen/Qwen3-4B batches:  31%|███       | 21/68 [10:25<26:32, 33.89s/it][A
-Qwen/Qwen3-4B batches:  32%|███▏      | 22/68 [11:04<27:14, 35.53s/it][A
-Qwen/Qwen3-4B batches:  34%|███▍      | 23/68 [11:26<23:35, 31.45s/it][A
-Qwen/Qwen3-4B batches:  35%|███▌      | 24/68 [11:42<19:39, 26.81s/it][A
-Qwen/Qwen3-4B batches:  37%|███▋      | 25/68 [12:21<21:50, 30.47s/it][A
-Qwen/Qwen3-4B batches:  38%|███▊      | 26/68 [12:43<19:31, 27.89s/it][A
-Qwen/Qwen3-4B batches:  40%|███▉      | 27/68 [13:19<20:43, 30.33s/it][A
-Qwen/Qwen3-4B batches:  41%|████      | 28/68 [13:59<22:05, 33.14s/it][A
-Qwen/Qwen3-4B batches:  43%|████▎     | 29/68 [14:19<19:02, 29.30s/it][A
-Qwen/Qwen3-4B batches:  44%|████▍     | 30/68 [14:58<20:22, 32.18s/it][A
-Qwen/Qwen3-4B batches:  46%|████▌     | 31/68 [15:30<19:45, 32.03s/it][A
-Qwen/Qwen3-4B batches:  47%|████▋     | 32/68 [15:45<16:10, 26.96s/it][A
-Qwen/Qwen3-4B batches:  49%|████▊     | 33/68 [16:04<14:26, 24.76s/it][A
-Qwen/Qwen3-4B batches:  50%|█████     | 34/68 [16:20<12:32, 22.13s/it][A
-Qwen/Qwen3-4B batches:  51%|█████▏    | 35/68 [16:40<11:50, 21.54s/it][A
-Qwen/Qwen3-4B batches:  53%|█████▎    | 36/68 [17:16<13:47, 25.86s/it][A
-Qwen/Qwen3-4B batches:  54%|█████▍    | 37/68 [17:25<10:42, 20.72s/it][A
-Qwen/Qwen3-4B batches:  56%|█████▌    | 38/68 [17:50<10:59, 21.99s/it][A
-Qwen/Qwen3-4B batches:  57%|█████▋    | 39/68 [18:15<11:02, 22.85s/it][A
-Qwen/Qwen3-4B batches:  59%|█████▉    | 40/68 [18:55<13:01, 27.91s/it][A
-Qwen/Qwen3-4B batches:  60%|██████    | 41/68 [19:14<11:22, 25.26s/it][A
-Qwen/Qwen3-4B batches:  62%|██████▏   | 42/68 [19:53<12:47, 29.52s/it][A
-Qwen/Qwen3-4B batches:  63%|██████▎   | 43/68 [20:07<10:16, 24.68s/it][A
-Qwen/Qwen3-4B batches:  65%|██████▍   | 44/68 [20:20<08:31, 21.32s/it][A
-Qwen/Qwen3-4B batches:  66%|██████▌   | 45/68 [20:55<09:44, 25.43s/it][A
-Qwen/Qwen3-4B batches:  68%|██████▊   | 46/68 [21:16<08:46, 23.94s/it][A
-Qwen/Qwen3-4B batches:  69%|██████▉   | 47/68 [21:55<10:01, 28.64s/it][A
-Qwen/Qwen3-4B batches:  71%|███████   | 48/68 [22:08<07:56, 23.81s/it][A
-Qwen/Qwen3-4B batches:  72%|███████▏  | 49/68 [22:45<08:49, 27.86s/it][A
-Qwen/Qwen3-4B batches:  74%|███████▎  | 50/68 [23:24<09:24, 31.36s/it][A
-Qwen/Qwen3-4B batches:  75%|███████▌  | 51/68 [24:04<09:34, 33.82s/it][A
-Qwen/Qwen3-4B batches:  76%|███████▋  | 52/68 [24:35<08:48, 33.02s/it][A
-Qwen/Qwen3-4B batches:  78%|███████▊  | 53/68 [24:58<07:31, 30.08s/it][A
-Qwen/Qwen3-4B batches:  79%|███████▉  | 54/68 [25:09<05:40, 24.29s/it][A
-Qwen/Qwen3-4B batches:  81%|████████  | 55/68 [25:49<06:14, 28.80s/it][A
-Qwen/Qwen3-4B batches:  82%|████████▏ | 56/68 [26:28<06:24, 32.01s/it][A
-Qwen/Qwen3-4B batches:  84%|████████▍ | 57/68 [26:47<05:09, 28.16s/it][A
-Qwen/Qwen3-4B batches:  85%|████████▌ | 58/68 [26:55<03:41, 22.19s/it][A
-Qwen/Qwen3-4B batches:  87%|████████▋ | 59/68 [27:35<04:06, 27.37s/it][A
-Qwen/Qwen3-4B batches:  88%|████████▊ | 60/68 [28:14<04:07, 30.95s/it][A
-Qwen/Qwen3-4B batches:  90%|████████▉ | 61/68 [28:54<03:54, 33.49s/it][A
-Qwen/Qwen3-4B batches:  91%|█████████ | 62/68 [29:21<03:10, 31.78s/it][A
-Qwen/Qwen3-4B batches:  93%|█████████▎| 63/68 [29:51<02:36, 31.26s/it][A
-Qwen/Qwen3-4B batches:  94%|█████████▍| 64/68 [30:30<02:14, 33.55s/it][A
-Qwen/Qwen3-4B batches:  96%|█████████▌| 65/68 [31:10<01:45, 35.33s/it][A
-Qwen/Qwen3-4B batches:  97%|█████████▋| 66/68 [31:35<01:04, 32.19s/it][A
-Qwen/Qwen3-4B batches:  99%|█████████▊| 67/68 [31:39<00:23, 23.81s/it][A
-Qwen/Qwen3-4B batches: 100%|██████████| 68/68 [31:41<00:00, 17.40s/it][A
-                                                                      [AModels:  33%|███▎      | 1/3 [31:46<1:03:32, 1906.15s/it]
-Evaluating IFEval for /data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form...
-
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
-Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  1.43it/s][A
-Loading checkpoint shards: 100%|██████████| 2/2 [00:01<00:00,  1.85it/s][ALoading checkpoint shards: 100%|██████████| 2/2 [00:01<00:00,  1.77it/s]
-
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:   0%|          | 0/68 [00:00<?, ?it/s][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:   1%|▏         | 1/68 [00:20<22:33, 20.21s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:   3%|▎         | 2/68 [00:40<22:07, 20.11s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:   4%|▍         | 3/68 [00:51<17:17, 15.97s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:   6%|▌         | 4/68 [01:32<27:37, 25.90s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:   7%|▋         | 5/68 [02:13<32:58, 31.40s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:   9%|▉         | 6/68 [02:53<35:36, 34.46s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  10%|█         | 7/68 [03:35<37:19, 36.72s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  12%|█▏        | 8/68 [04:07<35:13, 35.23s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  13%|█▎        | 9/68 [04:36<32:38, 33.19s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  15%|█▍        | 10/68 [05:17<34:28, 35.66s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  16%|█▌        | 11/68 [05:35<28:56, 30.46s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  18%|█▊        | 12/68 [06:17<31:29, 33.73s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  19%|█▉        | 13/68 [06:44<29:09, 31.81s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  21%|██        | 14/68 [07:10<27:03, 30.06s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  22%|██▏       | 15/68 [07:24<22:16, 25.22s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  24%|██▎       | 16/68 [08:05<25:57, 29.94s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  25%|██▌       | 17/68 [08:33<24:52, 29.27s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  26%|██▋       | 18/68 [09:11<26:34, 31.90s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  28%|██▊       | 19/68 [09:52<28:21, 34.72s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  29%|██▉       | 20/68 [10:33<29:18, 36.63s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  31%|███       | 21/68 [11:14<29:43, 37.96s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  32%|███▏      | 22/68 [11:55<29:48, 38.87s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  34%|███▍      | 23/68 [12:13<24:32, 32.72s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  35%|███▌      | 24/68 [12:26<19:33, 26.67s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  37%|███▋      | 25/68 [13:07<22:14, 31.04s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  38%|███▊      | 26/68 [13:29<19:41, 28.13s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  40%|███▉      | 27/68 [14:02<20:23, 29.83s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  41%|████      | 28/68 [14:43<22:04, 33.12s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  43%|████▎     | 29/68 [15:09<20:02, 30.82s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  44%|████▍     | 30/68 [15:49<21:22, 33.75s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  46%|████▌     | 31/68 [16:30<22:11, 35.98s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  47%|████▋     | 32/68 [16:42<17:14, 28.73s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  49%|████▊     | 33/68 [17:03<15:17, 26.21s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  50%|█████     | 34/68 [17:21<13:31, 23.88s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  51%|█████▏    | 35/68 [17:33<11:11, 20.33s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  53%|█████▎    | 36/68 [18:00<11:53, 22.29s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  54%|█████▍    | 37/68 [18:08<09:18, 18.01s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  56%|█████▌    | 38/68 [18:33<10:01, 20.05s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  57%|█████▋    | 39/68 [18:51<09:28, 19.59s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  59%|█████▉    | 40/68 [19:32<12:09, 26.07s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  60%|██████    | 41/68 [20:04<12:29, 27.76s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  62%|██████▏   | 42/68 [20:45<13:42, 31.64s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  63%|██████▎   | 43/68 [21:03<11:32, 27.72s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  65%|██████▍   | 44/68 [21:17<09:25, 23.56s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  66%|██████▌   | 45/68 [21:54<10:31, 27.46s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  68%|██████▊   | 46/68 [22:16<09:29, 25.90s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  69%|██████▉   | 47/68 [22:57<10:37, 30.37s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  71%|███████   | 48/68 [23:13<08:44, 26.23s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  72%|███████▏  | 49/68 [23:48<09:05, 28.73s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  74%|███████▎  | 50/68 [24:29<09:41, 32.29s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  75%|███████▌  | 51/68 [25:09<09:52, 34.85s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  76%|███████▋  | 52/68 [25:50<09:45, 36.62s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  78%|███████▊  | 53/68 [26:31<09:27, 37.81s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  79%|███████▉  | 54/68 [26:40<06:48, 29.17s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  81%|████████  | 55/68 [27:12<06:30, 30.01s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  82%|████████▏ | 56/68 [27:53<06:38, 33.24s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  84%|████████▍ | 57/68 [28:19<05:42, 31.09s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  85%|████████▌ | 58/68 [28:25<03:57, 23.71s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  87%|████████▋ | 59/68 [29:06<04:19, 28.83s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  88%|████████▊ | 60/68 [29:43<04:10, 31.29s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  90%|████████▉ | 61/68 [30:24<03:58, 34.07s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  91%|█████████ | 62/68 [30:53<03:16, 32.81s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  93%|█████████▎| 63/68 [31:26<02:43, 32.66s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  94%|█████████▍| 64/68 [32:02<02:14, 33.72s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  96%|█████████▌| 65/68 [32:34<01:39, 33.28s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  97%|█████████▋| 66/68 [33:02<01:03, 31.55s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches:  99%|█████████▊| 67/68 [33:08<00:24, 24.15s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-ga-free-form batches: 100%|██████████| 68/68 [33:12<00:00, 18.01s/it][A
-                                                                                                                                 [AModels:  67%|██████▋   | 2/3 [1:05:01<32:38, 1958.60s/it]
-Evaluating IFEval for /data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form...
-
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s][A
-Loading checkpoint shards:  50%|█████     | 1/2 [00:00<00:00,  1.48it/s][A
-Loading checkpoint shards: 100%|██████████| 2/2 [00:01<00:00,  1.90it/s][ALoading checkpoint shards: 100%|██████████| 2/2 [00:01<00:00,  1.82it/s]
-
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:   0%|          | 0/68 [00:00<?, ?it/s][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:   1%|▏         | 1/68 [00:21<23:35, 21.13s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:   3%|▎         | 2/68 [00:42<23:24, 21.28s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:   4%|▍         | 3/68 [00:54<18:20, 16.93s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:   6%|▌         | 4/68 [01:35<28:09, 26.39s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:   7%|▋         | 5/68 [02:16<33:17, 31.71s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:   9%|▉         | 6/68 [02:36<28:41, 27.77s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  10%|█         | 7/68 [03:17<32:35, 32.05s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  12%|█▏        | 8/68 [03:50<32:34, 32.57s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  13%|█▎        | 9/68 [04:18<30:19, 30.84s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  15%|█▍        | 10/68 [04:59<32:55, 34.05s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  16%|█▌        | 11/68 [05:20<28:44, 30.25s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  18%|█▊        | 12/68 [05:59<30:40, 32.86s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  19%|█▉        | 13/68 [06:34<30:47, 33.59s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  21%|██        | 14/68 [06:57<27:21, 30.39s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  22%|██▏       | 15/68 [07:20<24:42, 27.97s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  24%|██▎       | 16/68 [08:01<27:36, 31.85s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  25%|██▌       | 17/68 [08:27<25:40, 30.20s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  26%|██▋       | 18/68 [08:54<24:14, 29.09s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  28%|██▊       | 19/68 [09:34<26:38, 32.61s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  29%|██▉       | 20/68 [10:15<28:03, 35.07s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  31%|███       | 21/68 [10:46<26:23, 33.68s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  32%|███▏      | 22/68 [11:23<26:40, 34.80s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  34%|███▍      | 23/68 [11:48<23:53, 31.86s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  35%|███▌      | 24/68 [12:01<19:14, 26.23s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  37%|███▋      | 25/68 [12:42<21:54, 30.56s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  38%|███▊      | 26/68 [13:08<20:29, 29.27s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  40%|███▉      | 27/68 [13:44<21:25, 31.35s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  41%|████      | 28/68 [14:25<22:48, 34.20s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  43%|████▎     | 29/68 [14:50<20:29, 31.53s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  44%|████▍     | 30/68 [15:14<18:24, 29.07s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  46%|████▌     | 31/68 [15:48<18:51, 30.58s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  47%|████▋     | 32/68 [16:05<15:57, 26.60s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  49%|████▊     | 33/68 [16:29<14:56, 25.62s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  50%|█████     | 34/68 [16:43<12:41, 22.39s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  51%|█████▏    | 35/68 [16:55<10:33, 19.20s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  53%|█████▎    | 36/68 [17:28<12:22, 23.21s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  54%|█████▍    | 37/68 [17:36<09:44, 18.86s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  56%|█████▌    | 38/68 [17:59<10:01, 20.07s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  57%|█████▋    | 39/68 [18:19<09:41, 20.05s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  59%|█████▉    | 40/68 [19:00<12:15, 26.28s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  60%|██████    | 41/68 [19:30<12:16, 27.28s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  62%|██████▏   | 42/68 [20:11<13:35, 31.35s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  63%|██████▎   | 43/68 [20:31<11:45, 28.21s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  65%|██████▍   | 44/68 [20:45<09:31, 23.83s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  66%|██████▌   | 45/68 [21:24<10:54, 28.46s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  68%|██████▊   | 46/68 [21:47<09:45, 26.61s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  69%|██████▉   | 47/68 [22:28<10:49, 30.93s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  71%|███████   | 48/68 [22:43<08:46, 26.34s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  72%|███████▏  | 49/68 [23:16<08:59, 28.38s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  74%|███████▎  | 50/68 [23:57<09:39, 32.19s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  75%|███████▌  | 51/68 [24:38<09:52, 34.84s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  76%|███████▋  | 52/68 [25:19<09:45, 36.60s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  78%|███████▊  | 53/68 [26:00<09:29, 37.94s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  79%|███████▉  | 54/68 [26:09<06:47, 29.11s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  81%|████████  | 55/68 [26:50<07:03, 32.60s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  82%|████████▏ | 56/68 [27:30<07:00, 35.04s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  84%|████████▍ | 57/68 [27:49<05:31, 30.10s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  85%|████████▌ | 58/68 [27:58<03:59, 23.97s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  87%|████████▋ | 59/68 [28:39<04:20, 28.98s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  88%|████████▊ | 60/68 [29:20<04:20, 32.60s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  90%|████████▉ | 61/68 [30:01<04:05, 35.12s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  91%|█████████ | 62/68 [30:27<03:14, 32.42s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  93%|█████████▎| 63/68 [30:58<02:40, 32.04s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  94%|█████████▍| 64/68 [31:31<02:08, 32.21s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  96%|█████████▌| 65/68 [32:05<01:37, 32.64s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  97%|█████████▋| 66/68 [32:24<00:57, 28.77s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches:  99%|█████████▊| 67/68 [32:30<00:21, 21.83s/it][A
-/data/user_data/aduarte/HuggingFace/Qwen/Qwen3-4B-unlearned-dpo-free-form batches: 100%|██████████| 68/68 [32:34<00:00, 16.43s/it][A
-                                                                                                                                  [AModels: 100%|██████████| 3/3 [1:37:38<00:00, 1957.80s/it]Models: 100%|██████████| 3/3 [1:37:38<00:00, 1952.77s/it]
-
-IFEval metrics written to /home/aduarte/Trustworthy_AI/HW2/logs/P2/ifeval/ifeval_metrics.txt
